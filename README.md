@@ -49,7 +49,7 @@ For more information, updates, or deployment assistance, you can connect with ou
 - [Kunal Kotkar](https://www.linkedin.com/in/kunal-kotkar/)
 - [Sohan Gadiraju](https://www.linkedin.com/in/gadirajus/)
 - [Alex Fialon](https://www.linkedin.com/in/alex-fialon-08407018b/)
-- [Sofia Posada Rincon](https://www.linkedin.com/in/sofia-posada/)
+- [Sofia Posada](https://www.linkedin.com/in/sofia-posada/)
 
 ---
 
