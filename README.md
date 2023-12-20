@@ -51,4 +51,4 @@ For more information, updates, or deployment assistance, you can connect with ou
 
 ---
 
-LifeSavAR is more than just an app; it's a potential life-saver in your pocket, designed to assist anyone, anywhere, in a medical emergency. Join us in making first aid more accessible and effective. In order to test the apps on your own devices, please contact me for the unitypackage and/or the apk file!
+LifeSavAR is more than just an app; it's a potential life-saver in your pocket, designed to assist anyone, anywhere, in a medical emergency. Join us in making first aid more accessible and effective.
