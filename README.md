@@ -48,6 +48,8 @@ In order to deploy the project on your own Unity, you need to extract these fold
 For more information, updates, or deployment assistance, you can connect with our team, and follow us on LinkedIn:
 - [Kunal Kotkar](https://www.linkedin.com/in/kunal-kotkar/)
 - [Sohan Gadiraju](https://www.linkedin.com/in/gadirajus/)
+- [Alex Fialon](https://www.linkedin.com/in/alex-fialon-08407018b/)
+- [Sofia Posada Rincon](https://www.linkedin.com/in/sofia-posada/)
 
 ---
 
