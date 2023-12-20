@@ -39,10 +39,10 @@ LifeSavAR is an innovative Augmented Reality (AR) and Mixed Reality application 
 ## Versions Required
 - **Unity:** Unity 2022 (LTS Support)
 - **Visual Studio:** 2022
-- **MRTK:** OpenXR Plugin and MRTK Foundation Tools Required
+- **MRTK:** OpenXR Plugin and MRTK Foundation Tools
 
 ## Deployment
-In order to deploy the project on your own Unity, you need to extract these folders in your Unity Hub, create an empty 3D Core Project, import MRTK and Vuforia packages and open the scenes or you can also import our unitypackage. We will gladly assist you in every step of the way.
+In order to deploy the project on your own Unity, you need to extract these folders in your Unity Hub, create an empty 3D Core Project, import MRTK and Vuforia packages and open the scenes; or you can also import our unitypackage. In case of further assitance, please contact us and we will gladly assist you in every step of the way!
 
 ## Connect with Us!
 For more information, updates, or deployment assistance, you can connect with our team, and follow us on LinkedIn:
